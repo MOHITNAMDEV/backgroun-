@@ -1,0 +1,14 @@
+body{
+	color: rgb(0,0,0,.5);
+	text-align: center;
+	letter-spacing: 0em;
+	background:linear-gradient(to right,red,yellow);
+}
+h1{
+	text-align: center;
+	letter-spacing: 0em;
+}
+h3{
+	text-align: center;
+	letter-spacing: 0em;
+}
